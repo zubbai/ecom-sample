@@ -12,9 +12,9 @@
             </div>
           </div>
           <div class="footer__info">
-            <span class="footer__info-span">Email : info@domian.com</span>
+            <span class="footer__info-span">Email : mohammed.zubair989@gmail.com</span>
             <span class="footer__info-span margin--right-10">
-              Tel : 1023233030</span
+              Tel : +966556673858</span
             >
           </div>
         </div>
