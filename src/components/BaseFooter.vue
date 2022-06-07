@@ -42,7 +42,7 @@
       </div>
       <div class="footer__team">
         design with &#x02665; by
-        <a href="" class="footer__copy">mohammad nikoo &amp; tofiq hamza</a>
+        <a href="" class="footer__copy">Mohammed Zubair</a>
         © 2021
       </div>
     </div>
