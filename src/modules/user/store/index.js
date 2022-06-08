@@ -1,7 +1,7 @@
 export default {
   namespaced: true,
   state: () => ({
-    user: { name: "tofiq", id: 1 },
+    user: { name: "zubair", id: 1 },
     isLoggedIn: true
   }),
   getters: {
@@ -11,7 +11,7 @@ export default {
   },
   mutations: {
     SET_USER(state) {
-      state.user.name = 'mohammad'
+      state.user.name = 'mohammed'
     }
   },
   actions: {
