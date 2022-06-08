@@ -22,6 +22,6 @@ yarn serve
 yarn build
 ```
 
-### Customize configuration
+### Actual Website:
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://main.d2gpe773mm546m.amplifyapp.com/#/
