@@ -43,7 +43,7 @@
       <div class="footer__team">
         design with &#x02665; by
         <a href="" class="footer__copy">Mohammed Zubair</a>
-        © 2021
+        
       </div>
     </div>
     <div class="overlay" :class="{ 'overlay--is-active': showSideBar }"></div>
