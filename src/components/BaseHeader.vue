@@ -93,7 +93,7 @@
               </li>
               <li class="navbar__item">
                 <a
-                  href="https://github.com/Tefoh/vue-ecommerce-template"
+                  href="https://github.com/zubbai/ecom-sample"
                   class="navbar__link"
                   >Contact us(github)</a
                 >
